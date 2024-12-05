@@ -2,6 +2,8 @@
 
 This project is a 3D software engine written in Python using the Pygame library and the NumPy module. The engine allows you to create, load, and display real 3D models, providing the capability to move and rotate them in 3D space.
 
+![Demo Screenshot](./resources/demo.png)
+
 ## Installation
 
 To get started, install the required modules using the following command:
