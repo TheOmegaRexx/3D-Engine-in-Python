@@ -18,7 +18,7 @@ class Object3D:
         self.translate([0.0001, 0.0001, 0.0001])  # Small translation to avoid division by zero
 
         self.font = pg.font.SysFont('Arial', 30, bold=True)  # Font for rendering labels
-        self.color_faces = [(pg.Color('orange'), face) for face in self.faces]  # Assign colors to faces
+        self.color_faces = [(pg.Color('white'), face) for face in self.faces]  # Assign colors to faces
         self.movement_flag = True  # Flag to enable or disable object movement
         self.draw_vertices = False  # Whether to draw vertices
         self.label = ''  # Label for object faces
