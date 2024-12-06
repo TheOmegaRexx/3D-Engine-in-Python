@@ -36,7 +36,7 @@ class SoftwareRender:
 
     # Draws the current frame
     def draw(self):
-        self.screen.fill(pg.Color('darkslategray'))  # Set screen background color
+        self.screen.fill(pg.Color('black'))  # Set screen background color
         self.object.draw()  # Draw the 3D object
 
     # Main program loop
