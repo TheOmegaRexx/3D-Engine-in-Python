@@ -64,5 +64,6 @@ The project includes detailed explanations of 3D graphics concepts, including th
 
 ## Credit
 
-Credits for the 3D model go to mruboy
-https://sketchfab.com/3d-models/body-export001-6668602f820e422b95b780ab6fd41c38
+- Credits for the 3D model go to [mruboy](https://sketchfab.com/3d-models/body-export001-6668602f820e422b95b780ab6fd41c38).
+- Inspired by Coder Space and this [video](https://youtu.be/M_Hx0g5vFko?si=Bw4PByNbv-RX51yb)
+
